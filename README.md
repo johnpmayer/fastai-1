@@ -23,4 +23,18 @@ rather than require the crazy GPU setup. Still something to configure though.~~
 - [x] Listen to the lecture
   - [ ] Deploy to huggingface instead of the above. Really excellent workflow @37:00
 
+Bears deployed!
+
+<https://huggingface.co/spaces/johnpmayer/bear-deployment>
+
+(Note it's a "space", not a "model" - <https://huggingface.co/johnpmayer/bear_deployment_old>)
+
 ## Lesson 3
+
+- [x] Reading
+- [ ] Lecture & Exercises
+
+## Lesson 4
+
+- [ ] Reading
+- [ ] Lecture & Exercises
