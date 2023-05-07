@@ -33,7 +33,7 @@ Bears deployed!
 
 - [x] Reading
 - [ ] Lecture & Exercises
-  - 42 minutes in so far, finished up the gradient descent section
+  - 42 minutes in so far, finished up the gradient descent section. updated to get exact numbers
 
 ## Lesson 4
 
