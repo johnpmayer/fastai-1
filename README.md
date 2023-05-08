@@ -39,3 +39,4 @@ Bears deployed!
 I'm going to stop reading first, since it's wildly out of order.
 
 - [ ] Lecture & Exercises
+  - I'm about 24 minutes in, just downloaded the dataset from kaggle
