@@ -1,2 +1,4 @@
 *.zip
 us-patent-phrase-to-phrase-matching/
+output/
+submission.csv
